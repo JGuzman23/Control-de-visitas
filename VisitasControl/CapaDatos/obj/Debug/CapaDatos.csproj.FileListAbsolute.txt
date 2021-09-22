@@ -1,0 +1,9 @@
+C:\Users\renyg\source\repos\VisitasControl\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\renyg\source\repos\VisitasControl\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\renyg\source\repos\VisitasControl\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\renyg\source\repos\VisitasControl\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\renyg\source\repos\VisitasControl\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\renyg\source\repos\VisitasControl\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\renyg\source\repos\VisitasControl\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\renyg\source\repos\VisitasControl\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\renyg\source\repos\VisitasControl\CapaDatos\obj\Debug\CapaDatos.pdb

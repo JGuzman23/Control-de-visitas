@@ -1,0 +1,6 @@
+C:\Users\renyg\source\repos\VisitasControl\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\renyg\source\repos\VisitasControl\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\renyg\source\repos\VisitasControl\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\renyg\source\repos\VisitasControl\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\renyg\source\repos\VisitasControl\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\renyg\source\repos\VisitasControl\CapaEntidad\obj\Debug\CapaEntidad.pdb

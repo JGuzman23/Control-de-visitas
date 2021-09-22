@@ -1,0 +1,11 @@
+C:\Users\renyg\source\repos\VisitasControl\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\renyg\source\repos\VisitasControl\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\renyg\source\repos\VisitasControl\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\renyg\source\repos\VisitasControl\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\renyg\source\repos\VisitasControl\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\renyg\source\repos\VisitasControl\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\renyg\source\repos\VisitasControl\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\renyg\source\repos\VisitasControl\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\renyg\source\repos\VisitasControl\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\renyg\source\repos\VisitasControl\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\renyg\source\repos\VisitasControl\CapaNegocios\obj\Debug\CapaNegocios.pdb
